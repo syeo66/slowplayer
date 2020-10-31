@@ -1,5 +1,5 @@
 # slowplayer
-a slow movie player for rasperry pi
+a slow movie player on the Waveshare e-paper screen for rasperry pi.
 
 ## Requirements
 
