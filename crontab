@@ -1,0 +1,2 @@
+# change the image every 20 minutes
+*/20 * * * * /home/pi/play.sh > /home/pi/log 2> /home/pi/err.log

@@ -27,3 +27,9 @@ After that you can compile IT8951
 cd IT8951/
 make
 ```
+
+## Install cron job
+
+```bash
+crontab < crontab
+```
