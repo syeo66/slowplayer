@@ -1,5 +1,6 @@
-# slowplayer
-a slow movie player on the Waveshare e-paper screen for rasperry pi.
+# SlowPlayer
+A slow movie player on the Waveshare e-paper screen for Rasperry Pi.
+Inspired by [How to Build a Very Slow Movie Player for £120 in 2020](https://debugger.medium.com/how-to-build-a-very-slow-movie-player-in-2020-c5745052e4e4) by @TomWhitwell
 
 ## Requirements
 
@@ -14,17 +15,17 @@ To compile the IT8951 code you'd have also to install the bcm2835 library.
 
 ```bash
 wget http://www.airspayce.com/mikem/bcm2835/bcm2835-1.68.tar.gz                       
-tar xvfz bcm2835-1.68.tar.gz;
-cd bcm2835-1.58;
-./configure;
-make;
+tar xvfz bcm2835-1.68.tar.gz
+cd bcm2835-1.68
+./configure
+make
 sudo make install
 ```
 
 After that you can compile IT8951
 
 ```bash
-cd IT8951/
+cd slowplayer/IT8951/
 make
 ```
 
