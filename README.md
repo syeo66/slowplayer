@@ -1,6 +1,6 @@
 # SlowPlayer
 A slow movie player on the Waveshare e-paper screen for Rasperry Pi.
-Inspired by [How to Build a Very Slow Movie Player for £120 in 2020](https://debugger.medium.com/how-to-build-a-very-slow-movie-player-in-2020-c5745052e4e4) by @TomWhitwell
+Inspired by [How to Build a Very Slow Movie Player for £120 in 2020](https://debugger.medium.com/how-to-build-a-very-slow-movie-player-in-2020-c5745052e4e4) by [@TomWhitwell](https://github.com/TomWhitwell/)
 
 ## Requirements
 
